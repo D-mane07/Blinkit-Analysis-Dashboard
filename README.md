@@ -51,5 +51,5 @@ This project involves a comprehensive analysis of Blinkit's sales data to derive
 ---
 
 ### How to use this repository
-1. Ensure the image file `Blinkit.png.png` is in the root directory.
+1. Ensure the image file `Blinkit.png` is in the root directory.
 2. Clone the repository to view the analysis and dashboard.
